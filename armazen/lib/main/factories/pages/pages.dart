@@ -1,0 +1,1 @@
+export 'manufacturer/manufacturer.dart';
